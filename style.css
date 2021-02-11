@@ -1,0 +1,29 @@
+.me img {
+    border: radius 10%;
+    position: relative;
+    height: 400px;
+    width: 400px;
+    float: right;
+
+}
+
+body {
+    font-family: Georgia, Helvetica,'Times New Roman', Times, serif;
+    background-color: goldenrod;
+
+}
+
+:root {
+    --firstcolor: red;
+    --Secondcolor: white;
+    --Thirdcolor: blue;
+}
+
+nav {
+
+}
+
+head {
+    
+}
+
