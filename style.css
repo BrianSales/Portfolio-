@@ -1,9 +1,10 @@
 .me img {
     border: radius 10%;
     position: relative;
-    height: 400px;
-    width: 400px;
+    height: 500px;
+    width: 500px;
     float: right;
+    padding: 30px;
 
 }
 
@@ -30,6 +31,7 @@ nav ul li{
 
 #my-story, #work-portfolio, #contact-info{
     height: 1000px;
+    flex-wrap:nowrap;
     font-family: Helvetica;
     font-size:xx-large
     
@@ -37,13 +39,17 @@ nav ul li{
 }
 
 section img{
-    height: 400px;
-    width: 400px;
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 10px;
+    
     
 }
 
 #my-story{
-    background-color:#00FF00 ;
+    background-color:#00FF00;
+    
 }
 
 #contact-info{
