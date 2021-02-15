@@ -7,23 +7,41 @@
 
 }
 
+nav ul{
+    display: inline;
+    padding:0px;
+    margin:0px;
+}
+
+nav ul li{
+    display: inline;
+}
+
+.navlink{
+    padding: 15px;
+    font-size: xx-large;
+}
+
+.my-name{
+    float:right;
+    
+
+}
+
 body {
     font-family: Georgia, Helvetica,'Times New Roman', Times, serif;
-    background-color: goldenrod;
+    background-color:#FF0000;
 
 }
 
 :root {
-    --firstcolor: red;
-    --Secondcolor: white;
-    --Thirdcolor: blue;
+    --firstcolor:#FF0000;
+    --Secondcolor: #00FF00;
+    --Thirdcolor: #FFFF00;
+    --Forthcolor: #000000;
+    --Fifthcolor:#FFFFFF;
+
 }
 
-nav {
 
-}
-
-head {
-    
-}
 
