@@ -28,6 +28,24 @@ nav ul li{
 
 }
 
+#my-story, #work-portfolio, #contact-info{
+    height: 1000px;
+    font-family: Helvetica;
+    font-size:xx-large
+    
+
+}
+
+section img{
+    height: 400px;
+    width: 400px;
+    
+}
+
+#my-story{
+    background-color:#00FF00 ;
+}
+
 body {
     font-family: Georgia, Helvetica,'Times New Roman', Times, serif;
     background-color:#FF0000;
