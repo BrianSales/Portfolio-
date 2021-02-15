@@ -46,6 +46,17 @@ section img{
     background-color:#00FF00 ;
 }
 
+#contact-info{
+    background-color: var(--Fifthcolor);
+
+}
+
+#work-portfolio{
+    background-color: #000000;
+    color:var(--Thirdcolor);
+    
+}
+
 body {
     font-family: Georgia, Helvetica,'Times New Roman', Times, serif;
     background-color:#FF0000;
@@ -59,6 +70,10 @@ body {
     --Forthcolor: #000000;
     --Fifthcolor:#FFFFFF;
 
+}
+
+footer p{
+    text-align: center;
 }
 
 
